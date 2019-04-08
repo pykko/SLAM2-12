@@ -18,7 +18,7 @@ public class ComparerJoueurs {
 				break ;
 				
 			case -1 :
-				System.out.println( jr2.getNom( + " est meilleure qu'" + jr1.getNom( ) ;
+				System.out.println( jr2.getNom() + " est meilleure qu'" + jr1.getNom() ) ;
 				break ;
 				
 				

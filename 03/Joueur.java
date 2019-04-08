@@ -53,7 +53,7 @@ public class Joueur implements Comparable<Joueur> {
 	}
 
 	@Override
-	public int compareTo(Livreur autre) {
+	public int compareTo(Joueur autre) {
 		// TODO Auto-generated method stub
 		return 0;
 	}
