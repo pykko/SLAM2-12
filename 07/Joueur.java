@@ -53,7 +53,7 @@ public class Joueur {
 	}
 	
 	public boolean equals( Joueur autre ){
-		if( this.numero == autre.numero && this.nom.equals( autre.nom ) && this.pays.equals( pays.prenom ) ){
+		if( this.numero == autre.numero && this.nom.equals( autre.nom ) && this.pays.equals( autre.pays ) ){
 			return true ;
 		}
 		else {
